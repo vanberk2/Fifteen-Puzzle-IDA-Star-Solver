@@ -1,6 +1,4 @@
-# vanberk2
-# CS 411
-# HW 7
+# vanberk2 / CS 411 / HW 7
 
 This program solves the classic 15 puzzle game using an IDA* search.
 
